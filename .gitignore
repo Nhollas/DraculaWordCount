@@ -1,0 +1,13 @@
+obj/
+bin/
+.vscode/
+.vs/
+.run/
+.idea/
+.git/
+
+**/bin/*
+**/obj/*
+**/appsettings*.json
+.DS_Store
+
